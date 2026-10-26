@@ -1,0 +1,79 @@
+[33mcommit 75bbaf0eef999cbd2e8f057f67c2fe771bf685dd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Leon Depa <ldepa@md.pl>
+Date:   Mon Oct 26 13:10:37 2026 +0100
+
+    Dodałem działajace linki do plików.
+
+[33mcommit 701b3d07190aaa8cb0044c0dac96281f68ecee20[m
+Author: Leon Depa <ldepa@md.pl>
+Date:   Mon Oct 26 13:07:09 2026 +0100
+
+    zmienilem godz w programie
+
+[33mcommit aa2830aaa266632ac5ea0b3c3e7733c6e8acccd2[m
+Author: Olaf Grzeszczuk <kuba.lego12@gmail.com>
+Date:   Mon Oct 26 13:05:59 2026 +0100
+
+    :
+
+[33mcommit 6c98f3820eb99a0ca856b772924a774644407327[m
+Merge: 9759c7b 029e380
+Author: Leon Depa <ldepa@md.pl>
+Date:   Mon Oct 26 12:59:17 2026 +0100
+
+    Merge branch 'main' of github.com:Phanesage/html-css-collab-patrik-olafik-depson
+
+[33mcommit 9759c7b742b10df69e9d8d92b2facc84a7787d51[m
+Author: Leon Depa <ldepa@md.pl>
+Date:   Mon Oct 26 12:58:48 2026 +0100
+
+    Dodałem kolejnego pacjenta
+
+[33mcommit 029e380ffac49230e8bcec7b953369d16182811a[m
+Author: hd <hd@gmail.com>
+Date:   Mon Oct 26 12:57:31 2026 +0100
+
+    twoja stara sra do gara a twój stary to wpierdala
+
+[33mcommit 54992d3d9c662118e302327519b09544d4b8fd8d[m
+Author: Leon Depa <ldepa@md.pl>
+Date:   Mon Oct 26 12:54:43 2026 +0100
+
+    Dodałem linka do indexu w program.html
+
+[33mcommit 02439310757619973a3a0419d7e27776ff664fd0[m
+Merge: e7fb176 ce1b46a
+Author: Olaf Grzeszczuk <kuba.lego12@gmail.com>
+Date:   Mon Oct 26 12:39:59 2026 +0100
+
+    Merge branch 'main' of github.com:Phanesage/html-css-collab-patrik-olafik-depson
+
+[33mcommit e7fb176ff434b9bd3ff2a75af7e475169f8c1a7e[m
+Author: Olaf Grzeszczuk <kuba.lego12@gmail.com>
+Date:   Mon Oct 26 12:38:46 2026 +0100
+
+    Przesylam moja wersje index.html3
+
+[33mcommit ce1b46acd5b8dc8f7a0717d732ac43a51de4529b[m
+Author: Leon Depa <ldepa@md.pl>
+Date:   Mon Oct 26 12:37:40 2026 +0100
+
+    Dodałem program.html
+
+[33mcommit 48b8732bbc9a0851e324c948ea72718e2762f068[m
+Author: Leon Depa <ldepa@md.pl>
+Date:   Mon Oct 26 12:28:11 2026 +0100
+
+    Diagnoza pierwszego pacjenta
+
+[33mcommit 94e8a9accb3639364e896f1c7d4756c8c681d35c[m
+Author: Olaf Grzeszczuk <kuba.lego12@gmail.com>
+Date:   Mon Oct 26 12:12:03 2026 +0100
+
+     ZMIENIAM README.md JESTEM GOATEM PZDR
+
+[33mcommit 1cd6f939a7bffbbd03ddfbb02eb14b7c6db3d268[m
+Author: Phanesage <bloxiu7@gmail.com>
+Date:   Mon Oct 26 11:59:26 2026 +0100
+
+    Initial commit
