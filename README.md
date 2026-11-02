@@ -4,3 +4,7 @@ Typ wydarzenia: Ultrasonografia moszny.
 Odbiorca: Mężczyzni po 60 roku zycia.
 Data: 11.11.2026
 Miejsce: Sala 7w.
+
+Start:index.html
+Program:program.html
+Informacje:info.html
