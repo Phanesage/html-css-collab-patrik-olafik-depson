@@ -4,6 +4,24 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Kompleksowe Badanie Moszny - program</title>
+    <style>
+        .teczowy-tekst {
+            display: inline-block;
+            font-weight: bold;
+            background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet, red);
+            background-size: 200% auto;
+            color: transparent;
+            -webkit-background-clip: text;
+            background-clip: text;
+            animation: tecza 3s linear infinite;
+        }
+
+        @keyframes tecza {
+            to {
+                background-position: 200% center;
+            }
+        }
+    </style>
 </head>
 <body>
     <header><h1>Kompleksowe Badanie Moszny</h1></header>
@@ -36,7 +54,7 @@
             </tbody>
         </table>
         <h3>Prowadzący:</h3>
-        <article>
+        <article class="teczowy-tekst">
             Prowadzący mgr.GSI
         </article>
             <h3>Drużyny:</h3>
